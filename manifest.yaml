@@ -1,0 +1,5 @@
+---
+applications:
+- name:    express-hello-world
+  random-route: true
+  memory:  128M
